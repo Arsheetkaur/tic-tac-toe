@@ -44,11 +44,17 @@ Open the index.html file in your web browser
 text
 tic-tac-toe/
 ├── index.html          # Main HTML file
+
 ├── style.css           # CSS styles
+
 ├── script.js           # JavaScript game logic
+
 ├── excited.gif         # Winning animation
+
 ├── music.mp3           # Background music
+
 ├── ting.mp3            # Move sound effect
+
 └── gameover.mp3        # Game over sound effect
 
 ## Customization
