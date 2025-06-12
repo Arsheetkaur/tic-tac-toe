@@ -37,6 +37,7 @@ Clone the repository:
 
 bash
 git clone https://github.com/yourusername/tic-tac-toe.git
+
 Open the index.html file in your web browser
 
 ## File Structure
