@@ -43,6 +43,7 @@ Open the index.html file in your web browser
 ## File Structure
 text
 tic-tac-toe/
+
 ├── index.html          # Main HTML file
 
 ├── style.css           # CSS styles
